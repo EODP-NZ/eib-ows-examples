@@ -9,7 +9,6 @@ For a full user interface onto the NIWA Environmental information web services p
 
 This project contains a set of example notebooks showing how to make use of the CSW, WFS, WMS and SOS services provided by NIWA for Climate, Hydro and Biodiversity Data.
 
-
 ## Python
 Install ipython http://ipython.org/install.html
 
@@ -21,6 +20,8 @@ Work through the examples.
 
 Feel free to add new examples and provide corrections.
 
+You can view these notebooks online at
+[nbviewer.ipython.org](http://nbviewer.ipython.org/github/EODP-NZ/eib-ows-examples/tree/master/python/)
 
 Enjoy
 
